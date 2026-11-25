@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-const baseUrl = '/my-website/';
+const baseUrl = '/moments/';
 
 const config: Config = {
   title: 'Moments',
@@ -45,7 +45,7 @@ const config: Config = {
   baseUrl,
 
   organizationName: 'mengtaoxin',
-  projectName: 'my-website',
+  projectName: 'moments',
 
   onBrokenLinks: 'throw',
 
@@ -102,7 +102,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/mengtaoxin/my-website',
+          href: 'https://github.com/mengtaoxin/moments',
           label: 'GitHub',
           position: 'right',
         },
