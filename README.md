@@ -1,8 +1,8 @@
-# My Website
+# Moments
 
 A personal site built with [Docusaurus](https://docusaurus.io/). It hosts a blog and a few static pages.
 
-**Live site:** [https://mengtaoxin.github.io/my-website/](https://mengtaoxin.github.io/my-website/)
+**Live site:** [https://mengtaoxin.github.io/moments/](https://mengtaoxin.github.io/moments/)
 
 ## What's inside
 
