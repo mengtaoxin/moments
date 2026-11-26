@@ -12,7 +12,7 @@ A personal site built with [Docusaurus](https://docusaurus.io/). It hosts a blog
 
 ## Requirements
 
-- Node.js 20 or newer
+- Node.js 24 or newer
 
 ## Getting started
 
